@@ -1,17 +1,7 @@
-# Welcome to Dogs Unleashed 🐾♥
+# Welcome to DUM Smart Contract
 
-![](https://github.com/WilliamLuppi/Dogs-Unleashed-Minions-Smart-Contract/blob/main/DU%20Minions%20Logo.png)
+![](https://github.com/Urufu-Iriamu/Image-Library/blob/main/UrufuIriamu%20Banner%20Logo.png)
 
-All the code in these repos was created and explained by William Luppi on the main YouTube channel.
+All the code in these repos was created and explained by Urufu Iriamu on the main YouTube channel (Deleted).
 
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/c/WilliamLuppi)
-
-[🐶 Discord](https://discord.gg/Fe579jP8Pr)
-
-[🐦 Twitter](https://twitter.com/williamlnfts)
-
-[ℹ️ Website](https://dogsunleashednft.com)
-
-# This is Dogs Unleashed Official Smart Contract!!!
+Lost file
